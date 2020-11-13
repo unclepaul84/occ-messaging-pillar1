@@ -1,4 +1,4 @@
-openapi: 3.0.4
+openapi: 3.0.5
 info:
   title: Sample API
   description: Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/me) or HTML.
